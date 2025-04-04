@@ -18,7 +18,7 @@ Project structure:
 $ docker compose up -d
 
 ```
-## After the application starts, navigate to `http://localhost:8000` in your web browser or run:
+## გადადი localhost:8000 in your web browser or run:
 ```
 $ curl localhost:8000
 This webpage has been viewed 2 time(s)
