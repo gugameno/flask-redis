@@ -1,16 +1,4 @@
-## Compose sample application
-### Python/Flask application using a Redis database
-
-Project structure:
-
-```
-.
-├── Dockerfile
-├── README.md
-├── app.py
-├── compose.yaml
-└── requirements.txt
-
+### Python/Flask application using a Redis database to count requests
 
 ```
 ## Deploy with docker compose
